@@ -1,7 +1,7 @@
 # Quant III Lab, NYU
 
 
-**TA: [Junlong Aaron Zhou](www.zhoujunlong.com)**
+**TA: [Junlong Aaron Zhou](http://www.zhoujunlong.com)**
 
 **Last Updated: Dec.2019**
 
