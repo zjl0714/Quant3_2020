@@ -22,4 +22,4 @@ Before the first lab, please make sure you have R and (the free version of) RStu
 ## TA office hours
 
 - Tuesdays 4:00pm-6:00pm
-- Book [[here](https://calendly.com/jlzhou/15min)]
+- Book a time slot (no more than two consecutive slots) [[here](https://calendly.com/jlzhou/15min)]
