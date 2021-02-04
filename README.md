@@ -23,3 +23,7 @@ Before the first lab, please make sure you have R and (the free version of) RStu
 
 - Tuesdays 4:00pm-6:00pm
 - Book a time slot (no more than two consecutive slots) [[here](https://calendly.com/jlzhou/15min)]
+
+## Credits
+
+The lab materials were created, updated, and revised by Denis Stukal, Junlong Aaron Zhou.
