@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zjl0714/Quant3_lab_2020fall/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Instructor: Arturas Rozenas**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**TA: [Junlong Aaron Zhou](http://www.zhoujunlong.com)**
 
-### Markdown
+*This Repo is publicly available*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Syllabus
 
-# Header 1
-## Header 2
-### Header 3
+[syllabus](https://github.com/zjl0714/Quant3_lab_2020fall/blob/master/Syllabus_Quant3.pdf)
 
-- Bulleted
-- List
+Lab materials will be uploaded here prior to each lab session.
 
-1. Numbered
-2. List
+Before the first lab, please make sure you have R and (the free version of) RStudio (https://rstudio.com) on your machine.
 
-**Bold** and _Italic_ and `Code` text
+## Lab info
 
-[Link](url) and ![Image](src)
-```
+- Fridays 9:45am-11:15am
+- Zoom Meeting
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## TA office hours
 
-### Jekyll Themes
+- Tuesdays 4:00pm-6:00pm
+- Book a time slot (no more than two consecutive slots) [[here](https://calendly.com/jlzhou/15min)]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zjl0714/Quant3_lab_2020fall/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Schedule
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Week 1: [R basics](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab1_R_basics)
+- Week 2: [MLE basics](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab2_mle_basics)
+- Week 3: [Generalized Linear Model / Bootstrap](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab3_glm_boot)
+- Week 4: [Generalized Linear Model: Application](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab4_glm_app)
+- Week 5: [Bayesian Statistics: Introduction](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab5_bayes_intro)
+- Week 6: [Hierachical Modeling](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab6_hierarchical)
+- Week 7: [Bayesian Statistics: Computation](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab7_bayes_computation)
+- Week 8: [Bayesian Statistics: IRT model](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab8_bayes_irt)
+- Week 9: [Mixture Model](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab9_mixture)
+- Week 10: [High dimensional Statistics](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab10_high_dimension)
+- Week 11: [Nonparametric Model](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab11_nonparametric_regression)
+- Week 12: [Tree-based Model](https://github.com/zjl0714/Quant3_lab_2020fall/tree/master/lab12_tree)
+
+## Credits
+
+The lab materials were created, updated, and revised by Denis Stukal, Junlong Aaron Zhou.
