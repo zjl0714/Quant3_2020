@@ -1,4 +1,6 @@
-# Quant III Lab, NYU
+# Quant III Lab, NYU, 2020 Fall
+
+**Instructor: Arturas Rozenas**
 
 **TA: [Junlong Aaron Zhou](http://www.zhoujunlong.com)**
 
